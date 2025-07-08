@@ -5,4 +5,4 @@ scikit-learn
 matplotlib
 seaborn
 openpyxl
-joblib==1.2.0
+joblib
