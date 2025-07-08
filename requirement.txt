@@ -2,6 +2,7 @@ streamlit
 pandas
 numpy
 scikit-learn
-joblib
-xlrd
-openpyxl      
+matplotlib
+seaborn
+openpyxl
+joblib==1.2.0
